@@ -14,7 +14,7 @@
 
 ```sh
 git clone https://github.com/your-username/foodDeliverySystem_backend.git
-cd foodDeliverySystem_backendcd foodDeliverySystem_backend cd foodDeliverySystem_backend
+cd foodDeliverySystem_backend
 ```
 
 ### 2. 安裝依賴
