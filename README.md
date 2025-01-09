@@ -12,7 +12,20 @@
 
 ### 1. Clone
 
+```sh
 git clone https://github.com/your-username/foodDeliverySystem_backend.git
-cd foodDeliverySystem_backend
+cd foodDeliverySystem_backendcd foodDeliverySystem_backend cd foodDeliverySystem_backend
+```
 
-### 1. Clone
+### 2. 安裝依賴
+
+```sh
+mvn install
+```
+
+### 3. 運行
+```sh
+mvn spring-boot:run
+```
+
+
